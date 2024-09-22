@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-size: 16px;
+}
+
+.red-text {
+    color: red;
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.large-text {
+    font-size: 20px;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.bold-text {
+    font-weight: bold;
+}
